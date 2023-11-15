@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":3584,"text":"Dr. Justice here with my assistant and we are going to demonstrate the activity called 10-2."},{"start":9696,"text":"10-2 where you increase the pressure using your hands of either the armchair on your chairs or a ball like David is going to demonstrate."},{"start":18069,"text":"You are watching a live 3D brain image of David as he does this activity."},{"start":25809,"text":" You're looking at two things: the quantity of brainwaves that are in his head; and also the intensity."},{"start":31286,"text":"The brighter the color, the higher the intensity is."},{"start":34192,"text":"So, David, I just want you to throw the ball up in the air and just try to catch it randomly."},{"start":43312,"text":"Okay? Now, David, I want you to close your eyes."},{"start":46246,"text":"I want you to do the activity until where you squeeze the ball really very quickly all the way to 10-2, and then go slowly as you can to 2 tension on that tense scale."}]}]};
+    window.globalLoadJsAsset('story_content/5jaqA8LJj8j_transcripts.js', JSON.stringify(data));
+})();

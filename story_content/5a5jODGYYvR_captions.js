@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.80.31058.0%0D%0A%0D%0A00:00:00.096%20--%3E%2000:00:04.800%0D%0AClick%20each%20GYRA%20Golf%20user%20to%20learn%20how%20the%20app%20helped%20them%20perform%20their%20best%20on%20the%20course.%0D%0A%0D%0A"}')

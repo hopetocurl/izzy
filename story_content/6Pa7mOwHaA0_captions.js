@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.80.31058.0%0D%0A%0D%0A00:00:00.096%20--%3E%2000:00:05.088%0D%0ANeurohacks%20can%20be%20used%20in%20your%20personal%20and%20professional%20lives%20off%20the%20golf%20course%20as%20well.%0D%0A%0D%0A"}')
